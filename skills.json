@@ -1,74 +1,68 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-    },
-    {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-    },
-    {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
-    },
-    {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
-    },
-    {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
-    },
-
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
-    {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
     {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css.png"
     },
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "Redux",
+        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+    },
+    {
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/?size=48&id=38561&format=png&color=000000"
+    },
+    {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
         "name": "Java",
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
-
-    
-    {
-        "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-    },
-
     {
         "name": "C++",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-    },
-
-    {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
     },
     {
         "name": "Netlify",
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
     },
-
     {
         "name": "jQuery",
         "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
@@ -76,6 +70,53 @@
     {
         "name": "Git VCS",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "REST API",
+        "icon": "https://img.icons8.com/?size=48&id=kPg79e2BUhFm&format=png&color=000000"
+    },
+    {
+        "name": "JWT",
+        "icon": "https://img.icons8.com/?size=48&id=rHpveptSuwDz&format=png&color=000000"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/?size=48&id=wU62u24brJ44&format=png&color=000000"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png&color=000000"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://img.icons8.com/?size=48&id=hUvxmdu7Rloj&format=png&color=000000"
+    },
+    {
+        "name": "Tailwind",
+        "icon": "https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png&color=000000"
+    },
+    {
+        "name": "Ngnix",
+        "icon": "https://img.icons8.com/?size=48&id=t2x6DtCn5Zzx&format=png&color=000000"
+    },
+    {
+        "name": "Paypal",
+        "icon": "https://img.icons8.com/?size=48&id=13611&format=png&color=000000"
+    },
+    {
+        "name": "Stripe",
+        "icon": "https://img.icons8.com/?size=48&id=18980&format=png&color=000000"
+    },
+    {
+        "name": "Node mailer",
+        "icon": "https://img.icons8.com/?size=48&id=ejGs5tvLUSen&format=png&color=000000"
+    },
+    {
+        "name": "Twilio OTP",
+        "icon": "https://img.icons8.com/?size=48&id=w9opy68PK6BG&format=png&color=000000"
+    },
+    {
+        "name": "BitBucket",
+        "icon": "https://img.icons8.com/?size=48&id=iZTo5EQZtLKm&format=png&color=000000"
     }
-    
 ]
