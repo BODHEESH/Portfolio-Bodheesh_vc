@@ -53,10 +53,10 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["MERN stack developer",  "Youtube Content Creator", "Web designer"],
+        strings: ["Node Js developer",  "Youtube Content Creator", "Web designer", "Full stack developer -MERN"],
         loop: true,
-        typeSpeed: 50,
-		backSpeed: 25,
+        typeSpeed: 35,
+		backSpeed: 15,
 		backDelay: 500,
       });
 // <!-- typed js effect ends -->
